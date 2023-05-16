@@ -1,0 +1,7 @@
+.imageContainer {
+  transition: filter 0.3s ease;
+}
+
+.imageContainer:hover {
+  filter: brightness(80%);
+}
